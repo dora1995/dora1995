@@ -1,6 +1,6 @@
-# shadow 🧑🏻‍💻
+![](https://github.com/KieSun/KieSun/blob/master/header_.png)
 
-hi！👋
+# Hi，I'm shadow 🧑🏻‍💻
 
 <picture>
   <source
@@ -14,9 +14,9 @@ hi！👋
   <img src="https://github-readme-stats.vercel.app/api?username=dora1995&show_icons=true" align=right />
 </picture>
 
-I am a front-end developer with six years of development experience.
+六年前端开发，能较好完成Pc/H5/小程序/App开发
 
-Here are the skills I am good at
+喜欢羽毛球🏸️
 
 **Web Developer**
 
