@@ -14,11 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dora1995&show_icons=true" align=right />
 </picture>
 
-六年前端开发，能较好完成Pc/H5/小程序/App开发
+六年前端开发，不断学习中
 
-喜欢羽毛球🏸️
-
-要加油
+喜欢羽毛球🏸️ 要加油
 
 **Web Developer**
 
